@@ -38,7 +38,6 @@ const book3 = new Book(
   "Fantasy",
   1997
 );
-
 /*
 myLibrary.push(book1);
 myLibrary.push(book2);
